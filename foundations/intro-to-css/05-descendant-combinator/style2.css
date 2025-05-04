@@ -1,6 +1,7 @@
-div .text {
-    background-color: #ffff00;
+.container p {
     color: #ff0000;
+    background-color: #ffff00;
     font-size: 20px;
     text-align: center;
+
 }
